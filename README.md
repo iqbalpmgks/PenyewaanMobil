@@ -15,7 +15,7 @@ Have a bug or an issue with this system? [Open a new issue](https://github.com/i
 
 ## Creator
 
-**Information System Web-Based Car Rental** was created by and is maintained by **[Muhammad Iqbal Pamungkas](http://suaiq.blogspot.co.id/)** and **[Bagas Hadi Prakoso](https://web.facebook.com/bagashadii?fref=ts)**
+**Information System Web-Based Car Rental** was created by and is maintained by **[Muhammad Iqbal Pamungkas](https://me.suaiq.com/)** and **[Bagas Hadi Prakoso](https://web.facebook.com/bagashadii?fref=ts)**
 
 * https://facebook.com/iqbalpmgks
 * https://github.com/iqbalpmgks
